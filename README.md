@@ -8,6 +8,8 @@
 
 ![cor.png](https://s29.postimg.org/a0d4ufwo7/cor.png) [LogoMakr](https://logomakr.com/)
 
+[La Biblia de JavaScript](http://jstherightway.org/es-es/)
+
 ***
 
 ##Consola Terminal
